@@ -1,6 +1,5 @@
 
-//14 timer Tutustu linuxin timer-rutiineihin, jotka lähettävät SIGALRM:n ajastimen
-//lauetessa. Toteuta jotain säännöllisesti tulostava ohjelma. 
+
                                                                         
 
 //signal
